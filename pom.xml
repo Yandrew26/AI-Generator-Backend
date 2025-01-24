@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>andrewproject</groupId>
-    <artifactId>AIGeneratorApplication</artifactId>
+    <artifactId>AIGeneratorBackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>AIGeneratorApplication</name>
     <description>AIGeneratorApplication</description>
